@@ -1,6 +1,4 @@
 # Assignment_1_350
-Alex's Branch
+## Alex Sterling's Branch
 
-Changing this to do another test commit
-
-Annnnd another test. Hopefully my keys are set and fixed this time....
+The answers for all the problems are present in my sql file.
